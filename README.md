@@ -9,3 +9,11 @@ Python es un lenguaje de **muy alto nivel**, es decir el lenguaje de programaci�
 
 ## Sintaxis básica
 
+La **intrucción** es una linea de código que realiza una acción, no termina con ";".
+
+Los **comentarios** en Python se pones usando en *#* la linea a comentar.
+
+Para añadir un salto de línea se utiliza la " \ ", un ejemplo de esto seria:
+
+> \>\>\>mi_nombre="mi nombre es \\ \
+Pablo"
