@@ -39,6 +39,10 @@ Las funciones se llaman directamnte por el nombre y si es necesrio se pasan los 
 nombre_funcion()
 nombre_funcion(paremetros)
 ```
+### Listas 
+Las listas en este lenguaje son **dinamicas**  y además tienen la peculiaridad de poder guardar **distintos** tipos de datos
 
-
+```python
+nombreLista=[elem0,elem1,elem2,elem3,elem4,...]
+```
 
