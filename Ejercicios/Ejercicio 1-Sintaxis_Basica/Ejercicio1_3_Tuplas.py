@@ -15,10 +15,9 @@ print(len(mitupla))#logitud de la tupla
 
 
 tupla=("Juan",)#Tupla unica
-tupla1="Juan",13,48.55,True#Tupla desempaquetada
+tupla1="Juan",13,48.55,True#Tupla empaquetada
 
-
-nombre,dia,mes,agno=mitupla
+nombre,dia,mes,agno=mitupla#Tupla desempaquetada
 print(nombre)
 print(dia)
 print(agno)
